@@ -1,6 +1,6 @@
 # python.mycraft
 
-![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/github/license/wangdexinya/python.mycraft)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
