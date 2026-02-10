@@ -23,7 +23,6 @@ python.mycraft 是一个面向 Minecraft 爱好者和 Python 开发者的开源�
 1. 克隆本仓库
 ```bash
 git clone https://github.com/wangdexinya/mycraft-python.git
-cd python-mycraft/
 ```
 
 2.安装第三方拓展包（使用阿里云镜像加速）
@@ -33,6 +32,7 @@ pip install pygame ursina perlin_noise psutil -i https://mirrors.aliyun.com/pypi
 
 3.运行项目
 ```python
+cd python-mycraft/
 python run
 ```
 
