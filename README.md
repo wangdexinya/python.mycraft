@@ -40,6 +40,7 @@ python run
 ```files
 python-mycraft/
 ├── mycraft/          # 核心代码目录
+│   ├── assets/      # 资源文件夹
 │   ├── game_core.py       # 游戏主逻辑
 │   ├── save_system.py      # 世界生成与存档
 │   ├── main_menu.py     # 主菜单
