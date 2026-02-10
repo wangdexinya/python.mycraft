@@ -37,6 +37,7 @@ python run
 ```
 
 ## 📁 项目结构
+```files
 python-mycraft/
 ├── mycraft/          # 核心代码目录
 │   ├── game_core.py       # 游戏主逻辑
@@ -44,8 +45,8 @@ python-mycraft/
 │   ├── main_menu.py     # 主菜单
 │   ├── pause_menu.py     # 游戏内暂停菜单
 │   └── run     # 启动文件
-├── requirements.txt  # 依赖清单
 └── README.md         # 项目说明文档
+```
 
 ## 🎮 基本操作
 - W/A/S/D：前后左右移动
