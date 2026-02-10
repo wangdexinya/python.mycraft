@@ -93,7 +93,7 @@ wangdexinya(eggy_aurora)
 - 邮箱：1636647891@qq.com
 - GitHub：https://github.com/wangdexinya
 - 哔哩哔哩：https://space.bilibili.com/3461582916946644
-- 第一期宣传视频：[![B站视频封面](https://i0.hdslb.com/bfs/archive/4631816e0f644ef4e1dd6d4c0dc3f906ba249ca0.jpg)][(https://www.bilibili.com/video/BV1UJFDzrEeY)]
+- 第一期宣传视频：[第一期宣传视频](https://www.bilibili.com/video/BV1UJFDzrEeY)
 
 ## 开源目标
 - 合作制作!
