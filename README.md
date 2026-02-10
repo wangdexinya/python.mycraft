@@ -6,9 +6,6 @@
 
 一个基于 Python 开发的轻量级 Minecraft 复刻项目，旨在通过 Python 实现 Minecraft 核心玩法或辅助功能。
 
-## 👨‍💻 作者
-- eggy_aurora
-
 ## 📋 项目介绍
 python.mycraft 是一个面向 Minecraft 爱好者和 Python 开发者的开源项目，核心目标是：
 - 用 Python 语言复现 Minecraft 的核心游戏逻辑
