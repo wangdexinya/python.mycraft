@@ -27,7 +27,7 @@ cd python-mycraft/
 
 2.安装第三方拓展包
 ```pip
-pip install pygame ursina perlin_noise os psutil -i https://mirrors.aliyun.com/pypi/simple/
+pip install pygame ursina perlin_noise psutil -i https://mirrors.aliyun.com/pypi/simple/
 
 3.运行项目
 ```python
