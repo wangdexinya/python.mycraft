@@ -97,7 +97,8 @@ wangdexinya(eggy_aurora)
 - 哔哩哔哩：https://space.bilibili.com/3461582916946644
 - 第一期宣传视频：[第一期宣传视频](https://www.bilibili.com/video/BV1UJFDzrEeY)
 
-## 开源目标
+## 开源目标(暂未达成开源目标)
+- 前提：第一期宣传视频点赞破5000
 - 合作制作!
 - 提供建议
 - (纯粹就是想开源)
