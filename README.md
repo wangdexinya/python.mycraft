@@ -17,7 +17,7 @@ python.mycraft 是一个面向 Minecraft 爱好者和 Python 开发者的开源�
 
 ## 🛠️ 环境要求
 - Python 3.8 及以上版本
-- 推荐操作系统：Windows/Linux/macOS
+- 推荐使用系统：Windows10+/Windows-server-2015+/Linux/macOS-10+
 
 ## 🚀 安装步骤
 1. 克隆本仓库
