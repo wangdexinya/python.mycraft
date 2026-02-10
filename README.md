@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/github/license/wangdexinya/python.mycraft)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
-一个基于 Python 开发的轻量级 Minecraft 相关工具/复刻项目，旨在通过 Python 实现 Minecraft 核心玩法或辅助功能。
+一个基于 Python 开发的轻量级 Minecraft 复刻项目，旨在通过 Python 实现 Minecraft 核心玩法或辅助功能。
 
 ## 👨‍💻 作者
 - eggy_aurora
