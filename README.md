@@ -1,8 +1,7 @@
 # python.mycraft
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-#![License](https://img.shields.io/badge/license-MIT-green)
-![License](https://img.shields.io/github/license/tjy-gitnub/win12)
+![License](https://img.shields.io/github/license/wangdexinya/python.mycraft)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 一个基于 Python 开发的轻量级 Minecraft 相关工具/复刻项目，旨在通过 Python 实现 Minecraft 核心玩法或辅助功能。
