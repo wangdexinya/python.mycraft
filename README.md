@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 - 一个基于 Python 开发的轻量级 Minecraft 复刻项目，旨在通过 Python 实现 Minecraft 核心玩法或辅助功能。
-- 这个项目暂时并未开源，请前往 [第一期宣传视频](https://www.bilibili.com/video/BV1UJFDzrEeY) 点赞过5000才会开源
+- 这个项目暂时并未开源，[第一期宣传视频](https://www.bilibili.com/video/BV1UJFDzrEeY) 点赞过5000才会开源
 
 ## 📋 项目介绍
 python.mycraft 是一个面向 Minecraft 爱好者和 Python 开发者的开源项目，核心目标是：
